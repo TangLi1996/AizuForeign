@@ -6,7 +6,7 @@
 ### 東京 總結
 
 主流方式為巴士和新幹線。
-分別有兩篇文章介紹，分別是[搭乘巴士](Traffic_Tokyo_Bus_CN.md)和[使用新幹線](Traffic_Tokyo_Shinkansen_CN.md)。
+分別有兩篇文章介紹，分別是[搭乘巴士](Traffic_Tokyo_Bus_TW.md)和[使用新幹線](Traffic_Tokyo_Shinkansen_TW.md)。
 簡單對比一下這兩種
 | 對比內容 | 巴士 | 新幹線（含會津～郡山） |
 | --- | --- | --- |
