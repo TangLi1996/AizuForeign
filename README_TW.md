@@ -13,9 +13,9 @@
 ## 當前章節
 - 交通
   - 會津 ↔ 東京
-    - [交通概覽](/docs/CN/Traffic_Tokyo_Overview_TW.md)
-    - [搭乘巴士](/docs/CN/Traffic_Tokyo_Bus_TW.md)
-    - [使用新干線](/docs/CN/Traffic_Tokyo_Shinkansen_TW.md)
+    - [交通概覽](/docs/TW/Traffic_Tokyo_Overview_TW.md)
+    - [搭乘巴士](/docs/TW/Traffic_Tokyo_Bus_TW.md)
+    - [使用新干線](/docs/TW/Traffic_Tokyo_Shinkansen_TW.md)
 
 ## 貢獻指南
 我們歡迎您的貢獻！如果您有寶貴的經驗、見解或建議要分享，請隨時參與貢獻。查看我們的[貢獻指南](CONTRIBUTING.md)以獲取有關如何參與的詳細信息。
